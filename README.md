@@ -6,4 +6,6 @@ The data folder can be found at:
 2) Extract it to this directory.
 3) Run the jupyter notebook in analysis/
 
+The final labels for the patients are in the csv file in result/finalLabels.csv
+
 #### Note: Some of the datasets are quite large enough. So loading them would crash your pc. Instead use the cleaned datasets saved in data/ folder. I have added notes in the notebook wherever such cases occur. Please consider them
