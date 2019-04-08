@@ -2,7 +2,7 @@
 
 Please read the <b>explanation_of_analysis.pdf</b> before going through jupyter notebook as it will help to understand it better.
 
-The data folder can be found at <a href="https://drive.google.com/open?id=16QwoAQNhrj46cUFP_h7JKt__6n5K53x4">my drive</a>.
+The data folder can be found at <a href="https://drive.google.com/open?id=1EmDKITg5RPUpSQA7ZLLyB1a3c-BiIuB6">my drive</a>.
 
 1) Download the data folder.
 2) Extract it to this directory.
